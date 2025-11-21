@@ -4,6 +4,10 @@ body {
     margin: 20px;
 }
 
-title {
-    font-size: 320px;
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 32px;
 }
