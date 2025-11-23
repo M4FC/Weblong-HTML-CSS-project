@@ -14,6 +14,23 @@ h2 {
     font-size: 32px;
 }
 
-.introduction, .event1, .event2 {
+.event1_title, .event2_title, .event3_title, .overview_title, .fun_facts_title {
+    font-size: 24px;
+}
+
+.introduction, .event1, .event2, ol {
     text-align: left;
+}
+
+.img1 {
+    float: left;
+    position: relative;
+    width: 200px;
+    padding-right: 25px;
+}
+
+.img2 {
+    float: right;
+    width: 300px;
+    padding-left: 25px;
 }
