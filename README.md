@@ -1,2 +1,2 @@
 # Weblong-HTML-CSS-project
-Webblog project. Collaborator: Jayden
+Webblog project Mateo. Collaborator: Jayden
